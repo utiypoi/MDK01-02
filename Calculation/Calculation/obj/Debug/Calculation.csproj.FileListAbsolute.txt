@@ -1,0 +1,11 @@
+D:\Visual Studio\PracticalTask1\Calculation\Calculation\bin\Debug\Calculation.exe.config
+D:\Visual Studio\PracticalTask1\Calculation\Calculation\bin\Debug\Calculation.exe
+D:\Visual Studio\PracticalTask1\Calculation\Calculation\bin\Debug\Calculation.pdb
+D:\Visual Studio\PracticalTask1\Calculation\Calculation\bin\Debug\LibraryMathematicalOperations.dll
+D:\Visual Studio\PracticalTask1\Calculation\Calculation\bin\Debug\LibraryMathematicalOperations.pdb
+D:\Visual Studio\PracticalTask1\Calculation\Calculation\obj\Debug\Calculation.csproj.AssemblyReference.cache
+D:\Visual Studio\PracticalTask1\Calculation\Calculation\obj\Debug\Calculation.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\PracticalTask1\Calculation\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+D:\Visual Studio\PracticalTask1\Calculation\Calculation\obj\Debug\Calculation.csproj.CopyComplete
+D:\Visual Studio\PracticalTask1\Calculation\Calculation\obj\Debug\Calculation.exe
+D:\Visual Studio\PracticalTask1\Calculation\Calculation\obj\Debug\Calculation.pdb
